@@ -1,0 +1,10 @@
+check,result
+Source reports,12
+Parsed reports,12
+Station records,357
+Scenario records,202
+Duplicate station-month-district records,0
+Explicit zero accident records,17
+Explicit zero fatality records,191
+Station-name standardizations,2
+Parser warnings,0

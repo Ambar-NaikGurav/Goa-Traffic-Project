@@ -1,0 +1,20 @@
+field,definition,dataset
+report_year,Year of the reporting period,station + scenario
+month,Month represented by current-month columns,station + scenario
+district,North or South district,station
+source_station_name,Station name as extracted from source,station
+station_name_standardized,Analysis name; Colvala standardized to Colvale while raw name is retained,station
+monthly_accidents,Current-month total accidents,station
+comparison_month_accidents,Corresponding month accidents in comparison year,station
+ytd_accidents,Current up-to-date cumulative accidents,station
+comparison_ytd_accidents,Corresponding cumulative accidents in comparison year,station
+monthly_fatalities,Current-month fatalities,station
+comparison_month_fatalities,Corresponding month fatalities in comparison year,station
+ytd_fatalities,Current cumulative fatalities,station
+comparison_ytd_fatalities,Corresponding cumulative fatalities in comparison year,station
+particular,Official statewide accident-scenario category,scenario
+monthly_value,Current-month scenario value,scenario
+comparison_month_value,Corresponding-month scenario value,scenario
+ytd_value,Current cumulative scenario value,scenario
+comparison_ytd_value,Corresponding cumulative scenario value,scenario
+source_file,Original uploaded report,both
